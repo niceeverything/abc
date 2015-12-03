@@ -1,2 +1,0 @@
-cd f/git
-pause
