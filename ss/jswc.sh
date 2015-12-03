@@ -1,0 +1,2 @@
+cd f/git
+pause
